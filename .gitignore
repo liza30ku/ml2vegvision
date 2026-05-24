@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+*.egg-info/
+.DS_Store
+.idea/
+.vscode/
+
+# Salidas generadas
+outputs/
+
+# Artefactos grandes opcionales (los modelos ya están en el repo local)
+# models/*.pth
