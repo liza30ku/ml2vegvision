@@ -65,7 +65,7 @@ python scripts/smoke_api.py
 
 ---
 
-## API (актуально)
+## API
 
 Endpoints:
 
